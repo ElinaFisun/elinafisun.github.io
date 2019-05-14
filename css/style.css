@@ -1,0 +1,51 @@
+
+.navigation button {
+	display: none;
+}
+
+.image-container {
+	display: block;
+	width: 100px;
+}
+
+.navigation {
+	display: flex;
+}
+
+ h2, h3, nav{
+font-family: 'Amiri', serif;
+ font-weight: 100;
+}
+ h2, h3 {
+font-family: 'Castellar', serif;
+ font-weight: 100;
+    margin: 35px;
+}
+
+p {
+font-family: 'Raleway', sans-serif;
+ font-weight: 100;
+    align-content: right;
+    }
+
+a {
+    margin: 0.5rem;
+	color: #fff;
+}
+.w-100 {
+	display: block;
+	width: 100%;
+}
+
+.logo .image-container {
+	display: block;
+	width: 100px;
+}
+
+.row {
+	display: flex;
+	justify-content: center;
+}
+
+
+
